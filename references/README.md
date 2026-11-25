@@ -1,0 +1,1 @@
+The three full-resolution reference mockups are included in the downloadable local preview ZIP. The 27 image crops in assets/ were extracted directly from those mockups. Generated images are illustrative, not actual Odylop portfolio images.
